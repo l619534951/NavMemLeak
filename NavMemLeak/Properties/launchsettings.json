@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "NavMemLeak (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "NavMemLeak (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
